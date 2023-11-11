@@ -1,0 +1,90 @@
+Country Code,Country,Continent,GDP per Capita,GPI
+AF,Afghanistan,Middle-East,373,3.448
+AL,Albania,Europe,6396,1.745
+AM,Armenia,Europe,4967,1.929
+AO,Angola,Africa,2258,2.02
+BD,Bangladesh,Asia,2450,2.051
+BH,Bahrain,Middle-East,26563,2.145
+BI,Burundi,Africa,311,2.393
+BJ,Benin,Africa,1361,2.177
+BO,Bolivia,South America,3345,2.001
+BR,Brazil,South America,7507,2.462
+BT,Bhutan,Asia,3063,1.496
+BW,Botswana,Africa,6805,1.762
+BY,Belarus,Europe,7121,2.248
+CD,Congo,Africa,551,3.214
+CG,Congo,Africa,2200,2.21
+CI,Cote d'Ivoire,Africa,2539,2.053
+CM,Cameroon,Africa,1668,2.66
+CN,China,Asia,12437,2.009
+CU,Cuba,North America,11255,2.103
+DZ,Algeria,Africa,3700,2.094
+EG,Egypt,Middle-East,3898,2.267
+ER,Eritrea,Africa,623,2.505
+ET,Ethiopia,Africa,25,2.872
+GE,Georgia,Europe,4975,2.071
+GH,Ghana,Africa,2409,1.799
+GM,Gambia,Africa,772,1.888
+GN,Guinea,Africa,1185,2.359
+GT,Guatemala,North America,4883,2.13
+GY,Guyana,South America,9999,2.134
+HN,Honduras,North America,2772,2.265
+HR,Croatia,Europe,16983,1.45
+IL,Israel,Middle-East,54111,2.706
+IN,India,Asia,2274,2.314
+IQ,Iraq,Middle-East,4686,3.006
+IR,Iran,Middle-East,6766,2.8
+JO,Jordan,Middle-East,4058,1.895
+KE,Kenya,Africa,2082,2.254
+KG,Kyrgyz Republic,Asia,1339,2.11
+KW,Kuwait,Middle-East,32150,1.669
+LB,Lebanon,Middle-East,6785,2.581
+LK,Sri Lanka,Asia,3918,2.136
+LR,Liberia,Africa,471,1.946
+LY,Libya,Middle-East,5791,2.605
+MA,Morocco,Africa,3853,2.02
+MD,Moldova,Europe,4468,1.873
+ML,Mali,Africa,875,2.963
+MM,Myanmar,Asia,1089,2.741
+MN,Mongolia,Asia,4510,1.765
+MU,Mauritius,Africa,8873,1.546
+MW,Malawi,Africa,613,1.97
+MX,Mexico,North America,10046,2.599
+MY,Malaysia,Asia,11101,1.513
+NE,Niger,Africa,591,2.625
+NG,Nigeria,Africa,2019,2.713
+NI,Nicaragua,North America,2046,2.294
+NP,Nepal,Asia,1159,2.006
+PK,Pakistan,Asia,1480,2.745
+PS,"Palestinian Territory, Occupied",Asia,3514,2.538
+RS,Serbia,Europe,8643,1.921
+RU,Russia,Europe,12259,3.142
+RW,Rwanda,Africa,822,2.051
+SA,Saudi Arabia,Middle-East,23186,2.26
+SD,Sudan,Africa,786,3.023
+SL,Sierra Leone,Africa,505,1.792
+SO,Somalia,Africa,447,3.036
+SS,South Sudan,Africa,400,3.221
+SV,El Salvador,North America,4551,2.279
+SY,Syria,Middle-East,925,3.294
+SZ,Swaziland,Africa,3969,2.168
+TD,Chad,Africa,955,2.699
+TG,Togo,Africa,944,2.13
+TN,Tunisia,Africa,3807,2.01
+TR,Turkey,Europe,9661,2.8
+UA,Ukraine,Europe,4596,3.043
+UG,Uganda,Africa,930,2.3
+US,United States of America,North America,69185,2.448
+UZ,Uzbekistan,Asia,2032,2.033
+VE,Venezuela,South America,3965,2.693
+VN,Vietnam,Asia,3756,1.745
+XK,Kosovo,Europe,5663,1.946
+YE,Yemen,Middle-East,302,3.35
+ZA,South Africa,Africa,7055,2.405
+ZM,Zambia,Africa,1095,1.898
+ZW,Zimbabwe,Africa,1508,2.3
+AZ,Azerbaijan,Europe,5296,2.09
+BZ,Belize,North America,6229,1.962
+OM,Oman,Middle-East,19509,1.794
+PA,Panama,North America,14618,1.942
+TZ,Tanzania,Africa,1136,2.058
